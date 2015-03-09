@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry:@valueI"ñ      <div class="entry">
+        <img alt="Monaco" src="/assets/monaco.jpg" />
+        <h3>Monaco</h3>
+        snack time crispy buscuit
+        <div class="price_line">
+        <span class="price">$12.00</span>
+        </div>
+      </div>
+:ET:@created_atf1424867139.2829897:@expires_in0

@@ -1,0 +1,10 @@
+o: ActiveSupport::Cache::Entry:@valueI"ì      <div class="entry">
+        <img alt="Monaco" src="/assets/monaco.jpg" />
+        <h3>Monaco</h3>
+        <p>snack time crispy buscuit</p>
+        <div class="price_line">
+        <span class="price">$12.00</span>
+        <form action="/line_items?product_id=4" class="button_to" method="post"><div><input type="submit" value="Add to Cart" /><input name="authenticity_token" type="hidden" value="EJ2dwY8hRUrIwA1WupnQ5LRUmj5zH2+q5BHdIrB9lAE=" /></div></form>
+        </div>
+      </div>
+:ET:@created_atf1424937537.2656682:@expires_in0
